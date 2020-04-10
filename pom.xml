@@ -4,7 +4,7 @@
 
   <groupId>com.bpm</groupId>
   <artifactId>jbpm-event-listeners</artifactId>
-  <version>1.0</version>
+  <version>3.0</version>
   <packaging>jar</packaging>
 
   <name>jbpm-event-listeners</name>
